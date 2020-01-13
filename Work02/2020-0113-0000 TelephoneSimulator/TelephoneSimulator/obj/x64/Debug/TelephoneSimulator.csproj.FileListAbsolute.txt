@@ -1,0 +1,6 @@
+D:\Development\VisualStudio\TelephoneSimulator\TelephoneSimulator\bin\x64\Debug\TelephoneSimulator.exe.config
+D:\Development\VisualStudio\TelephoneSimulator\TelephoneSimulator\bin\x64\Debug\TelephoneSimulator.exe
+D:\Development\VisualStudio\TelephoneSimulator\TelephoneSimulator\bin\x64\Debug\TelephoneSimulator.pdb
+D:\Development\VisualStudio\TelephoneSimulator\TelephoneSimulator\obj\x64\Debug\TelephoneSimulator.csprojAssemblyReference.cache
+D:\Development\VisualStudio\TelephoneSimulator\TelephoneSimulator\obj\x64\Debug\TelephoneSimulator.exe
+D:\Development\VisualStudio\TelephoneSimulator\TelephoneSimulator\obj\x64\Debug\TelephoneSimulator.pdb
